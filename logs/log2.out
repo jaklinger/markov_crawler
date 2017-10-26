@@ -1,0 +1,63 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 6.551383098634392 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying http://nyuad.nyu.edu/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.59.
+Trying http://nyuad.nyu.edu/en/campus-life/student-services/technology-services.html
+		 ===> Got a normalised page score of 0.88 from 0.52.
+Trying http://nyuad.nyu.edu/en/about/global-network/ny-faculty.html
+	Already found this URL before
+		 ===> Got a normalised page score of 1.08 from 0.64.
+Trying http://nyuad.nyu.edu/en/news-events/abu-dhabi-events.html
+		 ===> Got a normalised page score of 0.77 from 0.46.
+Breaking out
+Trying http://nyuad.nyu.edu/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.59.
+Trying http://nyuad.nyu.edu/en/campus-life/residential-education-and-housing/dining.html
+	Already found this URL before
+		 ===> Got a normalised page score of 1.29 from 0.76.
+Trying http://nyuad.nyu.edu/en/about/alumni.html
+	Already found this URL before
+		 ===> Got a normalised page score of 1.26 from 0.75.
+Trying http://nyuad.nyu.edu/en/academics/registrar/transcripts.html
+	Already found this URL before
+		 ===> Got a normalised page score of 0.98 from 0.58.
+Breaking out
+Trying http://nyuad.nyu.edu/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.59.
+Trying http://nyuad.nyu.edu/en/academics/undergraduate-programs/courseload-gpa.html
+	Already found this URL before
+		 ===> Got a normalised page score of 0.90 from 0.53.
+Trying http://nyuad.nyu.edu/en/academics/undergraduate-programs/pre-professional-courses/media--culture-and-communication.html
+		 ===> Got a normalised page score of 1.02 from 0.60.
+Trying http://nyuad.nyu.edu/en/academics/undergraduate-programs/pre-professional-courses/media--culture-and-communication.html
+	Already found this URL before
+		 ===> Got a normalised page score of 1.02 from 0.60.
+Breaking out
+Trying http://nyuad.nyu.edu/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.59.
+Trying http://nyuad.nyu.edu/en/feedback.html
+	Already found this URL before
+		 ===> Got a normalised page score of 0.98 from 0.58.
+Trying http://nyuad.nyu.edu/en/admissions/candidate-weekend.html
+	Already found this URL before
+		 ===> Got a normalised page score of 0.80 from 0.47.
+Trying http://nyuad.nyu.edu/en/admissions/applying-to-nyuad/high-school-preparation.html
+	Already found this URL before
+		 ===> Got a normalised page score of 0.95 from 0.56.
+Breaking out
+Trying http://nyuad.nyu.edu/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.59.
+Trying http://nyuad.nyu.edu/en/news/campus-community/2017/08/seven-student-stories-from-the-seven-emirates.html
+		 ===> Got a normalised page score of 0.75 from 0.44.
+Trying http://nyuad.nyu.edu/en/academics/undergraduate-programs/language.html
+		 ===> Got a normalised page score of 1.16 from 0.68.
+Trying http://nyuad.nyu.edu/en/academics/academic-divisions/engineering.html
+	Already found this URL before
+		 ===> Got a normalised page score of 1.60 from 0.95.
+Breaking out

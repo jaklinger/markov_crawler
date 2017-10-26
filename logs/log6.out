@@ -1,0 +1,48 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 12.89927730807239 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying http://www.zu.ac.ae/main/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.30.
+Trying http://library.zu.ac.ae/ftlist
+	Already found this URL before
+		 ===> Got a normalised page score of 3.56 from 1.07.
+Trying http://library.zu.ac.ae/search~S3?/ftlist^bib03%2C1%2C0%2C22/mode=2
+		 ===> Got a normalised page score of 2.20 from 0.66.
+Trying http://library.zu.ac.ae/search~S3?/++ftlist/++ftlist/1%2C1%2C1%2CB/requestftlist~1763831^bib03%2C1%2C1%2C22/mode=2
+		 ===> Got a normalised page score of 1.76 from 0.53.
+Breaking out
+Trying http://www.zu.ac.ae/main/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.30.
+Trying http://www.zu.ac.ae/main/en/careers/index.aspx
+		 ===> Got a normalised page score of 2.34 from 0.70.
+Trying http://www.zu.ac.ae/main/en/careers/living/index.aspx
+		 ===> Got a normalised page score of 1.85 from 0.55.
+Trying http://www.zu.ac.ae/main/en/careers/living/living_auh.aspx
+		 ===> Got a normalised page score of 1.82 from 0.55.
+Breaking out
+Trying http://www.zu.ac.ae/main/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.30.
+Trying http://www.zu.ac.ae/main/en/open_data.aspx
+		 ===> Got a normalised page score of 2.31 from 0.70.
+Trying http://www.zu.ac.ae/main/files/contents/open_data/zu_fact_sheet_2015_16.pdf
+Ignoring suspicious path http://www.zu.ac.ae/main/files/contents/open_data/zu_fact_sheet_2015_16.pdf
+Trying http://www.zu.ac.ae/main/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.30.
+Trying http://zuportal.zu.ac.ae
+Got error <class 'requests.exceptions.HTTPError'> for URL http://zuportal.zu.ac.ae
+Trying http://www.zu.ac.ae/main/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.30.
+Trying http://www.zu.ac.ae/main/en/support/help.aspx
+		 ===> Got a normalised page score of 2.49 from 0.75.
+Trying http://www.zu.ac.ae/main/en/support/terms_conditions.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 0.97 from 0.29.
+Trying http://www.zu.ac.ae/main/en/e-participation/customer-satisfaction-survey.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.43 from 0.43.
+Breaking out

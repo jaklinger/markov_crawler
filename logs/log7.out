@@ -1,0 +1,50 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 4.268851641291099 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying http://www.sharjah.ac.ae/en/Pages/default.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.91.
+Trying http://www.sharjah.ac.ae/en/Pages/ffs.aspx
+		 ===> Got a normalised page score of 0.68 from 0.62.
+Trying http://www.sharjah.ac.ae/en/Administration/Registration/RS/Pages/default.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 0.75 from 0.68.
+Trying http://www.sharjah.ac.ae/en/Research/spu/Pages/default.aspx
+		 ===> Got a normalised page score of 0.80 from 0.72.
+Breaking out
+Trying http://www.sharjah.ac.ae/en/Pages/default.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.91.
+Trying http://www.sharjah.ac.ae/en/academics/colleges/pharmacy
+	Already found this URL before
+		 ===> Got a normalised page score of 0.90 from 0.82.
+Trying http://www.sharjah.ac.ae/en/academics/Colleges/Pharmacy/Pages/ppl.aspx
+		 ===> Got a normalised page score of 0.64 from 0.58.
+Trying http://www.sharjah.ac.ae/en/academics/Colleges/Pharmacy/Pages/Tes.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 0.72 from 0.65.
+Breaking out
+Trying http://www.sharjah.ac.ae/en/Pages/default.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.91.
+Trying javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl40$g_48ca702c_f252_42bb_a9ba_41a1b0aac31b$ctl00$lnkRegLinkCommonSearch", "", true, "", "", false, true))
+Got error <class 'requests.exceptions.InvalidSchema'> for URL javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl40$g_48ca702c_f252_42bb_a9ba_41a1b0aac31b$ctl00$lnkRegLinkCommonSearch", "", true, "", "", false, true))
+Trying http://www.sharjah.ac.ae/en/Pages/default.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.91.
+Trying http://www.sharjah.ac.ae/en/academics/colleges/communication
+	Already found this URL before
+		 ===> Got a normalised page score of 0.53 from 0.49.
+Trying http://www.sharjah.ac.ae/ar/Admissions/Graduate/Documents/Prog/M-Comm-ar.pdf
+Ignoring suspicious path http://www.sharjah.ac.ae/ar/Admissions/Graduate/Documents/Prog/M-Comm-ar.pdf
+Trying http://www.sharjah.ac.ae/en/Pages/default.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.91.
+Trying http://www.sharjah.ac.ae/en/Pages/ffs.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 0.68 from 0.62.
+Trying http://www.sharjah.ac.ae/en/cce/Pages/default.aspx
+		 ===> Got a normalised page score of 0.81 from 0.74.
+Trying http://www.sharjah.ac.ae/en/CCE/Pages/fd.aspx
+		 ===> Got a normalised page score of 0.74 from 0.67.
+Breaking out

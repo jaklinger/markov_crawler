@@ -1,0 +1,57 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 4.106509762631362 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying https://www.masdar.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.94.
+Trying https://www.masdar.ac.ae/aboutus/useful-info/vip-tributes
+	Already found this URL before
+		 ===> Got a normalised page score of 0.61 from 0.57.
+Trying https://www.masdar.ac.ae/aboutus/useful-info/http-masdar-ac-ae-about-us-alumni-testimonials
+	Already found this URL before
+		 ===> Got a normalised page score of 0.75 from 0.71.
+Trying https://www.masdar.ac.ae/aboutus/management
+	Already found this URL before
+		 ===> Got a normalised page score of 0.94 from 0.89.
+Breaking out
+Trying https://www.masdar.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.94.
+Trying https://events.masdar.ac.ae/event/25th_ifipieee_international_conference_on_very_large_scale_integration_vlsi
+	Already found this URL before
+		 ===> Got a normalised page score of 0.38 from 0.36.
+Trying https://events.masdar.ac.ae/search/events/1?event_types%5B%5D=47135
+	Already found this URL before
+		 ===> Got a normalised page score of 0.48 from 0.45.
+Trying https://events.masdar.ac.ae/search/events?event_types%5B%5D=47135&event_types%5B%5D=43604
+		 ===> Got a normalised page score of 0.55 from 0.52.
+Breaking out
+Trying https://www.masdar.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.94.
+Trying https://www.masdar.ac.ae/research-education/degree-offerings/phd-program
+	Already found this URL before
+		 ===> Got a normalised page score of 0.73 from 0.69.
+Trying https://www.masdar.ac.ae/component/mailto/?tmpl=component&template=masdarlatest&link=07d4785063f3e3ac0df038aed93aac0114916fd3
+		 ===> Got a normalised page score of 0.21 from 0.20.
+Trying javascript: void window.close()
+Got error <class 'requests.exceptions.InvalidSchema'> for URL javascript: void window.close()
+Trying https://www.masdar.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.94.
+Trying https://www.masdar.ac.ae/research-education/innovation-centers/imicro
+	Already found this URL before
+		 ===> Got a normalised page score of 0.94 from 0.88.
+Trying https://www.masdar.ac.ae/component/mailto/?tmpl=component&template=masdarlatest&link=2e4030e28cdc043e9e821b284a2decdcd0e1ad83
+		 ===> Got a normalised page score of 0.17 from 0.16.
+Trying javascript: void window.close()
+Got error <class 'requests.exceptions.InvalidSchema'> for URL javascript: void window.close()
+Trying https://www.masdar.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.94.
+Trying https://www.masdar.ac.ae/research-education/partners-and-resources/research-laboratories-department
+		 ===> Got a normalised page score of 0.77 from 0.73.
+Trying https://booking.masdar.ac.ae/Web/dashboard.php
+		 ===> Got a normalised page score of 0.33 from 0.31.
+Trying javascript:openLink("https%3A%2F%2Fpisso.masdar.ac.ae%2Fidp%2Fshibboleth")
+Got error <class 'requests.exceptions.InvalidSchema'> for URL javascript:openLink("https%3A%2F%2Fpisso.masdar.ac.ae%2Fidp%2Fshibboleth")

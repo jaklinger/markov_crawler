@@ -1,0 +1,41 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 5.86786588383804 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying https://aau.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying https://aau.ac.ae/en/admission/undergraduate/study-time-limitation
+		 ===> Got a normalised page score of 1.13 from 0.75.
+Trying https://aau.ac.ae/en/admission/undergraduate/examination-by-laws
+	Already found this URL before
+		 ===> Got a normalised page score of 1.10 from 0.73.
+Trying https://aau.ac.ae/en/centers/qa&irc/quality-assurance-manual
+	Already found this URL before
+		 ===> Got a normalised page score of 1.12 from 0.74.
+Breaking out
+Trying https://aau.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying https://aau.ac.ae/uploads/2017/pdf/student-handbook-2017-2018-english.pdf
+Ignoring suspicious path https://aau.ac.ae/uploads/2017/pdf/student-handbook-2017-2018-english.pdf
+Trying https://aau.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying https://aau.ac.ae/uploads/editor/source/handbooks/aau-stady-plan-2016.pdf
+Ignoring suspicious path https://aau.ac.ae/uploads/editor/source/handbooks/aau-stady-plan-2016.pdf
+Trying https://aau.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying https://aau.ac.ae/en/posts/mannequin-challenge-the-latest-online-fashions
+Got error <class 'requests.exceptions.HTTPError'> for URL https://aau.ac.ae/en/posts/mannequin-challenge-the-latest-online-fashions
+Trying https://aau.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying http://students.aau.ac.ae/student-welfare
+		 ===> Got a normalised page score of 0.95 from 0.63.
+Trying http://aau.ac.ae/vacancies
+	Already found this URL before
+		 ===> Got a normalised page score of 1.30 from 0.86.
+Trying https://aau.ac.ae/en/vacancies/view/69
+		 ===> Got a normalised page score of 1.50 from 0.99.
+Breaking out

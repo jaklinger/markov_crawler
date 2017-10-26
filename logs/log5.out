@@ -1,0 +1,52 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 4.358482643249266 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying https://www.ajman.ac.ae/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.89.
+Trying https://www.ajman.ac.ae/en/news/2017/international-conference-of-pharmacy-and-medicine-at-au-in-november.html
+		 ===> Got a normalised page score of 0.81 from 0.72.
+Trying https://ors.ajman.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 0.69 from 0.61.
+Trying https://www.ajman.ac.ae/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.89.
+Trying https://www.ajman.ac.ae/en/Colleges.html
+	Already found this URL before
+		 ===> Got a normalised page score of 0.87 from 0.77.
+Trying https://www.ajman.ac.ae/en/media/media-report.html
+		 ===> Got a normalised page score of 0.72 from 0.64.
+Trying https://www.ajman.ac.ae/en/admission-and-registration/undergraduate/admission-requirements.html
+	Already found this URL before
+		 ===> Got a normalised page score of 1.19 from 1.06.
+Breaking out
+Trying https://www.ajman.ac.ae/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.89.
+Trying https://www.ajman.ac.ae/en/news.html
+	Already found this URL before
+		 ===> Got a normalised page score of 0.57 from 0.51.
+Trying https://www.ajman.ac.ae/en/news/page/10
+		 ===> Got a normalised page score of 0.62 from 0.55.
+Trying https://www.ajman.ac.ae/en/admission-and-registration/financial-information/graduate-financial-information.html
+		 ===> Got a normalised page score of 0.63 from 0.56.
+Breaking out
+Trying https://www.ajman.ac.ae/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.89.
+Trying https://www.ajman.ac.ae/en/events.html
+		 ===> Got a normalised page score of 0.70 from 0.62.
+Trying https://www.ajman.ac.ae/en/events/fun-hour.html
+		 ===> Got a normalised page score of 0.78 from 0.69.
+Trying tel:+97167482222
+Got error <class 'requests.exceptions.InvalidSchema'> for URL tel:+97167482222
+Trying https://www.ajman.ac.ae/en
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.89.
+Trying http://pharmacy.ajman.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 0.83 from 0.74.
+Trying https://ors.ajman.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 0.69 from 0.61.

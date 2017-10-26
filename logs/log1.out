@@ -1,0 +1,58 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 5.900652197074627 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying http://www.buid.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying http://www.buid.ac.ae/Research
+		 ===> Got a normalised page score of 0.79 from 0.52.
+Trying http://www.buid.ac.ae/contact-us
+	Already found this URL before
+		 ===> Got a normalised page score of 1.02 from 0.67.
+Trying http://www.buid.ac.ae/Student-Visa-Information
+		 ===> Got a normalised page score of 0.84 from 0.55.
+Breaking out
+Trying http://www.buid.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying http://www.buid.ac.ae/contact-us
+	Already found this URL before
+		 ===> Got a normalised page score of 1.02 from 0.67.
+Trying http://www.buid.ac.ae/contact-us
+	Already found this URL before
+		 ===> Got a normalised page score of 1.02 from 0.67.
+Trying http://buid.ac.ae/Alumni-Testimonials
+		 ===> Got a normalised page score of 0.95 from 0.62.
+Breaking out
+Trying http://www.buid.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying http://www.buid.ac.ae/CPD
+	Already found this URL before
+		 ===> Got a normalised page score of 1.12 from 0.74.
+Trying http://www.buid.ac.ae/events
+		 ===> Got a normalised page score of 0.80 from 0.53.
+Trying http://content.buid.ac.ae/downloads/BUiD_Organisational_Chart-Feb2016.pdf
+Ignoring suspicious path http://content.buid.ac.ae/downloads/BUiD_Organisational_Chart-Feb2016.pdf
+Trying http://www.buid.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying http://www.buid.ac.ae/node/57
+	Already found this URL before
+		 ===> Got a normalised page score of 0.96 from 0.63.
+Trying http://www.buid.ac.ae/contact-us
+	Already found this URL before
+		 ===> Got a normalised page score of 1.02 from 0.67.
+Trying http://www.buid.ac.ae/programmes-faq
+Got error <class 'requests.exceptions.HTTPError'> for URL http://www.buid.ac.ae/programmes-faq
+Trying http://www.buid.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.66.
+Trying http://buid.ac.ae/apply-sept-2017
+		 ===> Got a normalised page score of 1.07 from 0.70.
+Trying http://buid.ac.ae/admission-requirements
+	Already found this URL before
+		 ===> Got a normalised page score of 0.93 from 0.61.
+Trying http://buid.ac.ae/people
+		 ===> Got a normalised page score of 0.89 from 0.59.
+Breaking out

@@ -1,0 +1,13 @@
+import blah
+[...]
+
+any_constants = "a value"
+[...]
+
+def all_my_functions(...):
+    [...]
+[...]
+
+def main(all_arguments):
+    [main routine]
+

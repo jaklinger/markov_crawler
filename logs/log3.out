@@ -1,0 +1,62 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 5.961646993332185 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying https://www.aus.edu
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.65.
+Trying http://www.aus.edu/conferences
+	Already found this URL before
+		 ===> Got a normalised page score of 1.02 from 0.66.
+Trying https://www.aus.edu/ASLC13
+		 ===> Got a normalised page score of 0.78 from 0.51.
+Trying http://www.aus.edu/info/200228/general_education_program
+	Already found this URL before
+		 ===> Got a normalised page score of 1.11 from 0.72.
+Breaking out
+Trying https://www.aus.edu
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.65.
+Trying https://www.aus.edu/site/scripts/home_info.php?homepageID=80
+	Already found this URL before
+		 ===> Got a normalised page score of 0.97 from 0.63.
+Trying http://www.aus.edu/info/200147/current_students/393/judicial_affairs/1
+	Already found this URL before
+		 ===> Got a normalised page score of 0.74 from 0.48.
+Trying https://www.aus.edu/info/200147/for_current_students/395/judicial_affairs_faqs
+		 ===> Got a normalised page score of 0.95 from 0.62.
+Breaking out
+Trying https://www.aus.edu
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.65.
+Trying http://www.aus.edu/info/200148/faculty_and_staff
+		 ===> Got a normalised page score of 0.85 from 0.55.
+Trying http://www.aus.edu/info/200148/for_faculty_and_staff/402/housing
+		 ===> Got a normalised page score of 0.92 from 0.60.
+Trying http://www.aus.edu/info/200176/international_study_and_exchange
+	Already found this URL before
+		 ===> Got a normalised page score of 1.30 from 0.84.
+Breaking out
+Trying https://www.aus.edu
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.65.
+Trying http://www.aus.edu/info/200218/employment
+	Already found this URL before
+		 ===> Got a normalised page score of 1.04 from 0.68.
+Trying http://www.aus.edu/info/200144/information_and_support/343/university_catalogs
+	Already found this URL before
+		 ===> Got a normalised page score of 0.71 from 0.46.
+Trying http://www.aus.edu/info/200146/registrar_services/348/forms
+	Already found this URL before
+		 ===> Got a normalised page score of 0.90 from 0.59.
+Breaking out
+Trying https://www.aus.edu
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.65.
+Trying http://www.aus.edu/info/200130/vision_of_the_founder
+		 ===> Got a normalised page score of 0.77 from 0.50.
+Trying http://www.aus.edu/info/200129/why_aus/434/fast_facts
+	Already found this URL before
+		 ===> Got a normalised page score of 0.85 from 0.55.
+Trying http://www.aus.edu/info/200129/why_aus/434/fast_facts/10
+		 ===> Got a normalised page score of 1.00 from 0.65.
+Breaking out

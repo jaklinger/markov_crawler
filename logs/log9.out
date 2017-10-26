@@ -1,0 +1,59 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 4.456256860908198 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying http://www.birmingham.ac.uk/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.87.
+Trying http://www.birmingham.ac.uk/partners/index.aspx
+		 ===> Got a normalised page score of 1.06 from 0.93.
+Trying http://www.birmingham.ac.uk/schools/psychology/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.33 from 1.16.
+Trying http://www.birmingham.ac.uk/schools/psychology/research/index.aspx
+		 ===> Got a normalised page score of 1.19 from 1.04.
+Breaking out
+Trying http://www.birmingham.ac.uk/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.87.
+Trying http://www.birmingham.ac.uk/contact/feedback/index.aspx
+		 ===> Got a normalised page score of 0.98 from 0.85.
+Trying http://www.birmingham.ac.uk/university/governance/publication-scheme/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.01 from 0.88.
+Trying http://www.birmingham.ac.uk/undergraduate/visit/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.62 from 1.41.
+Breaking out
+Trying http://www.birmingham.ac.uk/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.87.
+Trying http://www.birmingham.ac.uk/welcome/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.38 from 1.20.
+Trying http://www.birmingham.ac.uk/welcome/welcome-week-and-beyond/index.aspx
+		 ===> Got a normalised page score of 1.41 from 1.23.
+Trying http://www.birmingham.ac.uk/research/activity/immunology-immunotherapy/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.33 from 1.16.
+Breaking out
+Trying http://www.birmingham.ac.uk/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.87.
+Trying http://www.birmingham.ac.uk/staff/excellence/fellows/interdisciplinary-professorial-fellows/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.02 from 0.89.
+Trying http://www.birmingham.ac.uk/research/activity/africa-hub/index.aspx
+		 ===> Got a normalised page score of 1.19 from 1.03.
+Trying http://www.birmingham.ac.uk/research/activity/africa-hub/researching-africa/index.aspx
+		 ===> Got a normalised page score of 1.31 from 1.14.
+Breaking out
+Trying http://www.birmingham.ac.uk/index.aspx
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.87.
+Trying http://www.birmingham.ac.uk/undergraduate/visit/opendays/index.aspx
+		 ===> Got a normalised page score of 1.10 from 0.96.
+Trying https://yourpage.birmingham.ac.uk/RegisterforOpenDay
+		 ===> Got a normalised page score of 1.55 from 1.35.
+Trying http://www.birmingham.ac.uk/facilities/cadbury/index.aspx
+		 ===> Got a normalised page score of 1.31 from 1.14.
+Breaking out

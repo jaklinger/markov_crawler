@@ -1,0 +1,63 @@
+Got 9996 word scores from the database.
+Got 1332 page scores from the database.
+Set the threshold to 5.822567176463344 which corresponds to https://www.sheffield.ac.uk/undergraduate/finance/fees-calculator.
+Trying http://www.uowdubai.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.67.
+Trying http://www.uowdubai.ac.ae/our-researchers/external-grants
+		 ===> Got a normalised page score of 0.95 from 0.63.
+Trying http://www.uowdubai.ac.ae/postgraduate-programs/subject-descriptions
+		 ===> Got a normalised page score of 1.27 from 0.84.
+Trying http://www.uowdubai.ac.ae/about-uowd/our-vision-and-values
+	Already found this URL before
+		 ===> Got a normalised page score of 1.20 from 0.80.
+Breaking out
+Trying http://www.uowdubai.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.67.
+Trying http://www.uowdubai.ac.ae/about-uowd/uowd-advisory-council
+	Already found this URL before
+		 ===> Got a normalised page score of 1.10 from 0.73.
+Trying http://www.uowdubai.ac.ae/alumni/profiles/shurooq-al-banna
+	Already found this URL before
+		 ===> Got a normalised page score of 1.44 from 0.96.
+Trying http://www.uowdubai.ac.ae/research-centre/video-and-picture-gallery
+	Already found this URL before
+		 ===> Got a normalised page score of 0.98 from 0.65.
+Breaking out
+Trying http://www.uowdubai.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.67.
+Trying http://www.uowdubai.ac.ae/about-uowd/uowd-advisory-council
+	Already found this URL before
+		 ===> Got a normalised page score of 1.10 from 0.73.
+Trying http://www.uowdubai.ac.ae/alumni/profiles/mohamad-nabhan
+		 ===> Got a normalised page score of 1.14 from 0.76.
+Trying http://www.uowdubai.ac.ae/about-uowd/our-professional-staff/registrar
+	Already found this URL before
+		 ===> Got a normalised page score of 1.25 from 0.83.
+Breaking out
+Trying http://www.uowdubai.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.67.
+Trying http://www.uowdubai.ac.ae/postgraduate-programs/subject-descriptions
+	Already found this URL before
+		 ===> Got a normalised page score of 1.27 from 0.84.
+Trying http://www.uowdubai.ac.ae/alumni/awards
+	Already found this URL before
+		 ===> Got a normalised page score of 1.06 from 0.70.
+Trying http://www.uowdubai.ac.ae/uowd-alumni-awards-social-impact-0
+	Already found this URL before
+		 ===> Got a normalised page score of 0.99 from 0.66.
+Breaking out
+Trying http://www.uowdubai.ac.ae
+	Already found this URL before
+		 ===> Got a normalised page score of 1.00 from 0.67.
+Trying http://www.uowdubai.ac.ae/dba-degree-in-dubai/doctor-of-business-administration
+		 ===> Got a normalised page score of 1.19 from 0.79.
+Trying http://www.uowdubai.ac.ae/student-life/recreation
+		 ===> Got a normalised page score of 1.09 from 0.73.
+Trying http://www.uowdubai.ac.ae/student-services/personal-counselling
+	Already found this URL before
+		 ===> Got a normalised page score of 1.03 from 0.68.
+Breaking out
